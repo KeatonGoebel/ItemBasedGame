@@ -18,7 +18,7 @@ public class Game{
 		Game gameObject = new Game();
 		ArrayList<GameElement> itemBox = new ArrayList<>();
 		Scanner scanner = new Scanner(System.in);
-		System.out.println("Enter a command (Display, Change, Rand, List, help or Exit)");
+		System.out.println("Enter a Command (Display, Change, Rand, List, help or Exit)");
 		System.out.print(">:");
 		String userInput = scanner.nextLine();
 
@@ -827,7 +827,7 @@ public class Game{
 			    if (!commandFound) {
 				    System.out.println("ERROR: No Command Found");
 				}
-				System.out.println("Enter a command (Display, Change, Rand, List, help, or Exit)");
+				System.out.println("Enter a Command (Display, Change, Rand, List, help, or Exit)");
 				System.out.print(">:");
 				userInput = scanner.nextLine();	
 			}
@@ -845,7 +845,7 @@ public class Game{
 		System.out.println(command);
 		boolean helpExists = false;
 		if(command.equals("help")){
-			System.out.println("The help command prints out information about every command and how to execute them." + "\n" + 
+			System.out.println("The help Command prints out information about every command and how to execute them." + "\n" + 
 				"There is a help command for Display, Change, every possible type of Change, Rand, List, and Exit" + "\n" + "The format for the help command is " + "\n" + ">:help <command>");
 			helpExists = true;
 			return;
@@ -861,7 +861,7 @@ public class Game{
 
 		if (command.equals("Change")){
 			System.out.println("The Change Command allows you to change an aspect of a GameElement for the current session. These changes will be saved for the current session but lost when you close the program. However, all changes will be written to a text file called changeLog.txt."
-				+ " ChangeLog.txt will be saved in the same directory as the files for this program." + "\n" + " There is a different change command for every stat. Because of the different types of game elements, some commands are item specific. Additionally because some stats require multiple words, they must be in quotations"
+				+ " ChangeLog.txt will be saved in the same directory as the files for this program. To Ensure changes are properly saved, use the exit Command to exit the program." + "\n" + " There is a different change command for every stat. Because of the different types of game elements, some commands are item specific. Additionally because some stats require multiple words, they must be in quotations"
 				+ "\n" + " Here is the full list of change commands: ChangeName, ChangeRarity(must be in quotes), ChangeTier, ChangeDesc(must be in quotes), ChangeAlt(must be in quotes), ChangeStats(Item Specific, must be in quotes), ChangeSlash(Melee Specific), ChangeStab(Melee Specific), ChangeSweep(Melee Specific), ChangeAccuracy(Ranged Specific)"
 				+ ", ChangeSpeed(Ranged Specific), ChangeDamage(Ranged Specific), ChangeRange(Ranged Specific)");
 			helpExists = true;
