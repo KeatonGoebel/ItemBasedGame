@@ -1,7 +1,7 @@
-# ItemBasedGame
+# RolePlayingGame
 This is a Java command line interface program meant to support an item-based interactive role playing game. The idea of the game is that players will have the ability to imagine their own characters in an imaginary setting. In the game, they will be given a wide varity of Items with certain statistics that will be important in combat. This program will make the development and play of the game easier by automating certain tasks. Like for example, displaying item statistics, listing out certain types of items, and randomly picking out certain types of items. When this program is running, the user will see ">:" indicating that it is awating input from the user. Users must input commands excatly as is into the terminal. This program was written alongside other people who helped design the game rules and the items. 
 
-## ItemBasedGame Commands
+## RolePlayingGame Commands
 
 * help: The help commands prints out information about every command and how to execute them
 
@@ -15,7 +15,7 @@ This is a Java command line interface program meant to support an item-based int
 
 * Exit: The Exit command Exits the program
 
-### ItemBasedGame Example Inputs and Outputs 
+### RolePlayingGame Example Inputs and Outputs 
 ```
 Enter a Command (Display, Change, Rand, List, help or Exit)
 >:Rand 1,C,3
