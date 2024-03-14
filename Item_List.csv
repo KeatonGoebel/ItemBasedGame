@@ -1,0 +1,60 @@
+Shuriken Tornado,III,I,Ultra Rare (Purple),Spinning Shuriken deals AOE Damage.,5 Foot Radius,Can be used once every 2 turns creates whirlwind of shuriken dealing damage every turn and eviscerating all enemies in a set area. 2 charges.
+Daisho,I,I,Rare (Green),Dual Wielding Badass,,Gain the ability to hold two weapons at once. Wow! SO Badass!
+Makibishi,I,I,Common (Grey),Caltrop,5 Foot Radius,Can be set on the ground and deal 2 damage to whoever walks over the space. Can be used multiple times.
+Basic Amor,I,I,Common (Grey),Basic Amor,+1 AP,Tanks one hit. Breaks after use.
+Kaginawa,II,I,Rare (Green),"Kagi meaning ""Hook"" and Nawa meaning ""Rope""",,Beginner's Grappling Hook capable of climbing building and pulling yourself to enemies.
+Abumi,II,I,Ultra Rare (Purple),Baby's First Stirrups,,Grants the ability to ride on horseback in combat and in the daytime. Choose 1 Horse Companion.
+Hata-jirushi,II,I,Ultra Rare (Purple),Basic War Banner,10 Foot Radius,Sets all allies in 10 foot radius to full health. Can be used once per night
+Horagai,II,I,Rare (Green),Handheld Conch Shell Trumpet,,Can be used to reset enemies once per night.
+Kusari,II,I,Rare (Green),Chain Armor,+2 AP,Tanks two hits. Breaks after use.
+Kurata,II,I,Rare (Green),Samurai Armor Plate,+1 AP,Tanks one hit can be repaired.
+Gappa,II,I,Common (Grey),Travel Cape,,Can be used to conceal movements in battle. 
+Item Belt,II,I,Ultra Rare (Purple),Pouch Granting Item Space,+1 Item Slot.,NIL,
+Hata-jirushi II,III,I,Acquired,Upgraded War Banner,10 Foot Radius,Sets all allies in radius to full health and creates orb of light that damages enemies in radius 1 HP per turn.
+Upgraded Kaginawa,III,I,Ultra Rare (Purple),"Kagi meaning ""Hook"" and Nawa meaning ""Rope""",,Upgraded Grappling Hook capable of climbing buildings pulling enemies to you and connecting objects to one another.
+Armor Plate,I,I,Common (Grey),Basic Armor,+1 AP,Tanks one hit. Breaks after Use.
+Armor of the Golden Monkey,III,I,Ultra Rare (Purple),Armor of an Ancient Warrior knowledgable in the Way of the Golden Monkey.,+2 AP and +1 HP,Grants health along with armor a blessing from the Lord of Apes.
+Hunter's Mark,I,I,Acquired,Allows Wielder to Mark an Enemy for Death Allies Deal Double Damage.,,One use per night.
+Battle Analyzer,II,I,Ultra Rare (Purple),Small Visor Showing User Weak Points in Armor and Skin,,"One use per night. Further uses require >3 on a d6, or item will break. Martial Arts Specialists can use without checks."
+Taunt,I,I,Rare (Green),Loud Taunt. Neener Neener.,10 Foot Radius,Taunt enemies in a 10 foot radius to attack only you. 
+Mouth Harp,II,I,Common (Grey),Annoying Sound Amplifies Commands,,Wielder's Samurai commands double range.
+ Acid of a Fallen Saint,I,I,Legendary (Golden),Life Altering Substance Once Ingested,,One time use alters character to experimental skill tree.
+Waraji,II,I,Common (Grey),Sandals of a Shinobi,,Speed up can run up sides of trees and buildings.
+Tenugui,III,I,Common (Grey),Piece of Cloth used to cover the face or climb.,,Can be used to swing between trees and cover the face of an unassuming individual.
+Gappa II,III,I,Rare (Green),Armored Travel Cape.,+1 AP,Can be used to conceal movements in battle. 
+Bansenshukai,II,I,Ultra Rare (Purple),Book of Tiger School Shinobi,,Teaches homing jump and death charge.
+Soul Binder,III,I,Rare (Green),Bonds a Weapon Alteration to the PC,,Player keeps the weapon alteration or spell when they buy a new weapon.
+Praying Heal,II,I,Common (Grey),Basic Healing Prayer.,+1 HP,Reusable heal giving a small amount of health to the caster or a nearby friend they can touch. 1 use per night or per boss killed.
+Telltale Heart,I,I,Rare (Green),Gain One Permanent Health and Lose One Sanity.,+1 Permanent HP. -1 Sanity. Adds Sanity Meter.,"The Telltale Heart continues to beat endlessly, driving you insane. Levels up once per 2 bosses killed."
+Coin Purse,I,I,Common (Grey),Gain 3 Sen,+3 Sen,Nil,
+Coin Purse II,II ,I,Common (Grey),Gain 4 Sen,+4 Sen,Nil,
+Coin Purse III,III,I,Common (Grey),Gain 5 Sen,+5 Sen,Nil,
+Item Belt II,III,I,Rare (Green),Pouch Granting Item Space,+1 Item Slot,Nil,
+Dog Belt,III,I,Ultra Rare (Purple),Grants Ally- Dog.,+1 Dog Ally +1 Ally Slot,Nil,
+Cape of Invisibility,III,I,Rare (Green),Black and White Cape of a Great Size. Invisble to the naked eye.,,Grants Invisibility for 1 turn for PC and one nearby ally. One use per night.
+Potion of Invisibility,I,I,Ultra Rare (Purple),Small Vial of Viscous Black Liquid.,,Grants Invisibility for 1 turn. Unusable after 1 use.
+Potion of Strength,II,I,Rare (Green),Small Vial of Red Glowing Liquid.,,Grants +3 STR for one night. Unusable after 1 use.
+Club,I,M ,Common (Grey),Basic Club Great for Blunt Damage,Slashing ++ Stabbing -- Speed ++,"Not effective against armor, but extra damage on blows to the head."
+Katana,I,M ,Rare (Green),Blade and Soul of the Warrior,Slashing ++ Stabbing ++ Speed -,Nil,
+Wakizashiv,I,M ,Common (Grey),Preferred Short Sword of the Samurai,Slashing 0 Stabbling + Speed +,Nil,
+Tanto,I,M ,Ultra Rare (Purple),Double Edged Knife of Value,Slashing- Stabbing ++ Speed ++,Extremely Short Range
+Bokken,I,M ,Common (Grey),Wooden Training Sword,Slashing - Stabbing - Speed ++,"Almost no damage, but can be sold for one Samurai weapon of higher tier."
+Hammer,I,M ,Common (Grey),Basic Hammer,Slashing + Stabbing - Speed ++,Nil,
+Pickaxe,I,M ,Common (Grey),Mostly Used for Ore, Slashing + Stabbing - Speed -,Nil,
+Naginata,II,M ,Common (Grey),Bladed Pole of Death,Slashing + Stabbing-- Speed ++,Access to Perilous Sweeping Attack
+Kaburtowari,II,M ,Rare (Green),Skull Splitting Knife,Slashing + Stabbing ++ Speed ++,Can hit through armor on stealth attack
+Great Club,II,M ,Common (Grey),Basic Great Club Amazing Blunt Damage,Slashing ++ Stabbing -- Speed -,Amazing Crowd Control and Grants use of Hunter's Mark Item
+Chisel,II,M ,Common (Grey),Used to Carve Metals,Slashing -- Stabbing ++ Speed ++,Nil,
+Soul Infested Katana,III,M ,Rare (Green),Katana Infested With Souls of Defeated Wielders,Slashing ++ Stabbing + Speed -,Nil,
+Elevated Tanto,II,M ,Ultra Rare (Purple),Double Edged Knife Once Valued by a Monk Who Altered the Knife Repeatedly.,Slashing - Stabbing +++ Speed ++,"Lightweight and durable, with massive critical damage."
+Club of a Great Warrior,II,M ,Common (Grey),Purple Club with Runes Carved in its Side,Slashing ++ Stabbing -- Speed ++,"Not effective against armor, but extra damage on blows to the head. Gains access to Battle Analyzer Item."
+Scythe,II,M ,Common (Grey),Long Scythe with two forms: Sweeping and Slashing.,Slashing ++ Stabbing -- Speed +. Requires 2 DEX,"Sweeping and Slashing switching takes a bonus action, but provide amazing crowd damage."
+Flail,II,M ,Rare (Green),Spike Ball on a Chain attached to a Short Handle.,Slashing + Stabbing + Speed +++. 5 DMG per STR Level and Requires 2 STR to wield.,Swinging around a heavy object takes a lot from the user but will scale with Strength Users. +.5 DMG per STR level.
+Kanabo,I,M ,Common (Grey),Traditional Spiked Bat.,Slashing ++ Stabbing -- Speed +,Nil,
+Yumi,I,R,Common (Grey),Longbow of the Samurai,Accuracy - Speed + Damage + Range -,Headshots kill basic enemies and Increase next shot damage
+Tanegashima,II,R,Rare (Green),Dutch-Imported Basic Rifle,Accuracy + Speed - Damage + Range +,One turn Reload
+Kabura-ya,II,R,Ultra Rare (Purple),Whistling Arrow,Accuracy ++ Speed - Damage + Range -,Command by targeting.
+Yumi,II,R,Rare (Green),Traditional Bow,Accuracy + Speed + Damage + Range -,Great for rapid fire and insta-kill headshots.
+Bajō-zutsu,III,R,Rare (Green),Pistol Taneganshima Only for the most Badass of Samurai,Accuracy - Speed - Damage + Range +,One turn Reload
+Odzutsu,III,R,Legendary (Golden),Handheld Artillery,Accuracy -- Speed - Damage +++ Range ++,Can be fired once per battle. Can ignite forest or wood surroundings.
+Shuriken,I,R,Common (Grey),Basic Shuriken Great for Beginner Shinobi,Accuracy + Speed ++ Damage 0 Range -,Extra headshot damage. Not effective against armored foes.
