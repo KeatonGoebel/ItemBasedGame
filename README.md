@@ -1,5 +1,5 @@
 # RolePlayingGame
-This is a Java command line interface program meant to support an item-based interactive role playing game. The idea of the game is that players will have the ability to imagine their own characters in an imaginary setting. In the game, they will be given a wide varity of Items with certain statistics that will be important in combat. This program will make the development and play of the game easier by automating certain tasks. Like for example, displaying item statistics, listing out certain types of items, and randomly picking out certain types of items. When this program is running, the user will see ">:" indicating that it is awating input from the user. Users must input commands excatly as is into the terminal. This program was written alongside other people who helped design the game rules and the items. 
+This is a Java command line interface program meant to support an item-based interactive role playing game. The idea of the game is that players will have the ability to imagine their characters in an imaginary setting. In the game, they will be given a wide varity of items with certain statistics that will be important in combat. This program will make the development and play of the game easier by automating certain tasks. Like for example, displaying item statistics, listing out certain types of items, and randomly picking out certain types of items. When this program is running, the user will see ">:" indicating that it is awating input from the user. Users must input commands excatly as is into the terminal. This program was written alongside other people who helped design the game rules and the items. 
 
 ## RolePlayingGame Commands
 
@@ -15,7 +15,12 @@ This is a Java command line interface program meant to support an item-based int
 
 * Exit: The Exit command Exits the program
 
+For more information, check the help descriptions inside the program. 
+
 ### RolePlayingGame Example Inputs and Outputs 
+
+This is an example of how to randomly select one common tier three item. 
+
 ```
 Enter a Command (Display, Change, Rand, List, help or Exit)
 >:Rand 1,C,3
@@ -27,4 +32,5 @@ Tenugui
 Enter a Command (Display, Change, Rand, List, help, or Exit)
 >:
 ```
+
 
